@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="29px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient cx="233" cy="31.5" r="10" gradientTransform="matrix(-1 0 0 -0.95 466 61.425 )" gradientUnits="userSpaceOnUse" id="RadialGradient62">
+      <stop id="Stop63" stop-color="#ffffff" offset="0" />
+      <stop id="Stop64" stop-color="#000000" offset="1" />
+    </radialGradient>
+    <filter x="219px" y="18px" width="30px" height="29px" filterUnits="userSpaceOnUse" id="filter65">
+      <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetInner" />
+      <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
+      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.349019607843137 0  " in="shadowComposite" />
+    </filter>
+    <g id="widget66">
+      <path d="M 233 26  C 236.36 26  239 28.42  239 31.5  C 239 34.58  236.36 37  233 37  C 229.64 37  227 34.58  227 31.5  C 227 28.42  229.64 26  233 26  Z " fill-rule="nonzero" fill="#cccccc" stroke="none" />
+      <path d="M 233 24.5  C 237.2 24.5  240.5 27.58  240.5 31.5  C 240.5 35.42  237.2 38.5  233 38.5  C 228.8 38.5  225.5 35.42  225.5 31.5  C 225.5 27.58  228.8 24.5  233 24.5  Z " stroke-width="5" stroke="url(#RadialGradient62)" fill="none" />
+    </g>
+  </defs>
+  <g transform="matrix(1 0 0 1 -219 -18 )">
+    <use xlink:href="#widget66" filter="url(#filter65)" />
+    <use xlink:href="#widget66" />
+  </g>
+</svg>

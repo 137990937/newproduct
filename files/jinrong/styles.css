@@ -1,0 +1,138 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:relative;
+  left:-89px;
+  width:612px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u138_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:612px;
+  height:342px;
+}
+#u138 {
+  border-width:0px;
+  position:absolute;
+  left:89px;
+  top:27px;
+  width:612px;
+  height:342px;
+  display:flex;
+}
+#u138 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u138_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u139_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:211px;
+  height:374px;
+}
+#u139 {
+  border-width:0px;
+  position:absolute;
+  left:89px;
+  top:369px;
+  width:211px;
+  height:374px;
+  display:flex;
+}
+#u139 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u139_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u140_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:217px;
+  height:374px;
+}
+#u140 {
+  border-width:0px;
+  position:absolute;
+  left:300px;
+  top:369px;
+  width:217px;
+  height:374px;
+  display:flex;
+}
+#u140 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u140_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u141_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:185px;
+  height:374px;
+}
+#u141 {
+  border-width:0px;
+  position:absolute;
+  left:510px;
+  top:369px;
+  width:185px;
+  height:374px;
+  display:flex;
+}
+#u141 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u141_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
